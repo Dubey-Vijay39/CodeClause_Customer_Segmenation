@@ -5,6 +5,8 @@ Customer segmentation helps you divide your customer base and tailor your offers
 
 The Dataset was used of Mall customers downloaded from Kaggle
 
+The dataset contains 200 rows and 5 columns.
+
 The dataset contains Column: CustomerId, Gender, Age, Annual income(k$) and Spending Score(1-100)
 
 The Segmentation is done using the Kmeans Clustering.
