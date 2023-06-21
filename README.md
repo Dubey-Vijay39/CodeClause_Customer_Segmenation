@@ -1,7 +1,7 @@
 # CodeClause_Customer_Segmenation
 Every customer has a unique personality, preference, and specific need.
-You cannot offer the same product to all your customers and expect them to buy from you. 
-Customer segmentation helps you divide your customer base and tailor your offers accordingly. 
+You cannot offer the same product to all customers and expect them to buy from us. 
+Customer segmentation helps divide customer base and tailor the offers accordingly. 
 
 The Dataset was used of Mall customers downloaded from Kaggle
 
